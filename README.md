@@ -1,4 +1,4 @@
-# Hey 👋, sou Larissa Bitencourt
+# Olá 👋, me chamo Larissa Bitencourt!
 
 ### Desenvolvedora de Software Full Stack 
 
